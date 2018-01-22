@@ -1,0 +1,754 @@
+@media screen and (max-width: 1300px) {
+  .template-coffee-story .coffee-perfection-img {
+    width: 500px !important;
+    height: 750px !important;
+  }
+  .template-coffee-story .coffee-story .header {
+    font-size: 24px !important;
+  }
+  .template-coffee-shop .coffee-features .shop-name {
+    font-size: 18px;
+  }
+  .template-coffee-shop .coffee-features .shop-slogan {
+    font-size: 10px;
+  }
+  .template-coffee-shop .coffee-features .features-list {
+    margin-left: 10px !important;
+  }
+  .template-coffee-shop .coffee-features .features-list .feature {
+    margin: 10px 0 !important;
+    letter-spacing: 0.2em !important;
+  }
+  .template-coffee-shopinfo .operation-hours {
+    padding-left: 20px !important;
+  }
+  .template-coffee-shopinfo .operation-hours .times h5 {
+    font-size: 16px !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .shop-logo {
+    left: 16% !important;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  .template-coffee-showcase .coffee-greeter {
+    top: 35% !important;
+    left: 30% !important;
+    font-size: 16px !important;
+  }
+  .template-coffee-story .coffee-perfection-img {
+    width: 500px !important;
+    height: 750px !important;
+  }
+  .template-coffee-story .coffee-perfection-img .title-perfection {
+    padding-top: 80px !important;
+    font-size: 18px !important;
+  }
+  .template-coffee-story .coffee-story {
+    padding-top: 0px !important;
+    margin-top: 0px !important;
+  }
+  .template-coffee-story .coffee-story .header {
+    font-size: 20px !important;
+    font-family: 'Khula', sans-serif !important;
+  }
+  .template-coffee-story .coffee-story .underline {
+    margin-bottom: 5px !important;
+  }
+  .template-coffee-story .coffee-story .description {
+    font-size: 10px !important;
+    padding-right: 40px !important;
+  }
+  .template-coffee-newsletter {
+    height: 300px !important;
+  }
+  .template-coffee-newsletter .newsletter {
+    top: 32% !important;
+  }
+  .template-coffee-shop .coffee-features .features-list .feature {
+    margin: 20px 0 !important;
+    padding-left: 290px !important;
+    letter-spacing: 0.2em !important;
+  }
+  .template-coffee-shop .coffee-images {
+    width: 100% !important;
+  }
+  .template-coffee-shopinfo .operation-hours {
+    padding-left: 20px !important;
+    width: 100% !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .shop-logo {
+    left: 6% !important;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .template-coffee-showcase .coffee-greeter {
+    top: 35% !important;
+    left: 20% !important;
+    font-size: 16px !important;
+  }
+  .template-coffee-story .coffee-logo {
+    font-size: 42px !important;
+    margin: 30px 0 !important;
+  }
+  .template-coffee-story .coffee-perfection-img {
+    width: 400px !important;
+    height: 650px !important;
+  }
+  .template-coffee-story .coffee-perfection-img .title-perfection {
+    padding-top: 80px !important;
+    font-size: 18px !important;
+  }
+  .template-coffee-story .coffee-story .header {
+    text-align: center !important;
+  }
+  .template-coffee-story .coffee-story .underline {
+    margin-bottom: 5px !important;
+    margin: auto !important;
+  }
+  .template-coffee-story .coffee-story .description {
+    padding: 0px !important;
+    text-align: center !important;
+  }
+  .template-coffee-newsletter {
+    height: 300px !important;
+  }
+  .template-coffee-newsletter .newsletter {
+    top: 32% !important;
+  }
+  .template-coffee-shop .coffee-features .features-list .feature {
+    margin: 15px 0 !important;
+    padding-left: 150px !important;
+  }
+  .template-coffee-shop .coffee-images .carousel-caption {
+    top: 25% !important;
+  }
+  .template-coffee-shopinfo {
+    height: 700px !important;
+  }
+  .template-coffee-shopinfo .operation-hours {
+    text-align: center !important;
+  }
+  .template-coffee-shopinfo .operation-hours .hour-header {
+    text-align: center !important;
+  }
+  .template-coffee-shopinfo .coffee-footer {
+    height: 150px !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .social {
+    display: block !important;
+    left: 36% !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .shop-logo {
+    left: 35% !important;
+    display: block !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .information {
+    left: 30% !important;
+    display: block !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .information li {
+    text-align: center !important;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .template-coffee-showcase .coffee-greeter {
+    top: 35% !important;
+    left: 10% !important;
+    font-size: 12px !important;
+  }
+  .template-coffee-story .coffee-logo {
+    font-size: 42px !important;
+    margin: 30px 0 !important;
+  }
+  .template-coffee-story .coffee-perfection-img {
+    width: 400px !important;
+    height: 650px !important;
+  }
+  .template-coffee-story .coffee-perfection-img .title-perfection {
+    padding-top: 80px !important;
+    font-size: 18px !important;
+  }
+  .template-coffee-story .coffee-story .header {
+    text-align: center !important;
+  }
+  .template-coffee-story .coffee-story .underline {
+    margin-bottom: 5px !important;
+    margin: auto !important;
+  }
+  .template-coffee-story .coffee-story .description {
+    padding: 0px !important;
+    text-align: center !important;
+  }
+  .template-coffee-newsletter {
+    height: 300px !important;
+  }
+  .template-coffee-newsletter .newsletter {
+    top: 32% !important;
+  }
+  .template-coffee-shop .coffee-features .features-list .feature {
+    margin: 15px 0 !important;
+    padding-left: 150px !important;
+  }
+  .template-coffee-shop .coffee-images .carousel-caption {
+    top: 25% !important;
+  }
+  .template-coffee-shopinfo {
+    height: 700px !important;
+  }
+  .template-coffee-shopinfo .operation-hours {
+    text-align: center !important;
+  }
+  .template-coffee-shopinfo .operation-hours .hour-header {
+    text-align: center !important;
+  }
+  .template-coffee-shopinfo .coffee-footer {
+    height: 150px !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .social {
+    display: block !important;
+    left: 36% !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .shop-logo {
+    left: 35% !important;
+    display: block !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .information {
+    left: 30% !important;
+    display: block !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .information li {
+    text-align: center !important;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .carousel-control .glyphicon-menu-right, .carousel-control .icon-next {
+    margin-right: -10px;
+  }
+  .carousel-control .glyphicon-menu-left, .carousel-control .glyphicon-menu-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+    width: 30px;
+    height: 30px;
+    margin-top: -10px;
+    font-size: 30px;
+  }
+  .carousel-control .glyphicon-menu-right, .carousel-control .icon-next {
+    right: 50%;
+    margin-right: -10px;
+  }
+  .carousel-control .glyphicon-menu-left, .carousel-control .glyphicon-menu-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+    position: absolute;
+    top: 50%;
+    z-index: 5;
+    display: inline-block;
+    margin-top: -10px;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .template-coffee-showcase .coffee-nav .shop-logo {
+    display: block !important;
+    font-size: 12px !important;
+    left: 33% !important;
+  }
+  .template-coffee-showcase .coffee-nav .nav-social {
+    left: 37% !important;
+    top: 45px !important;
+  }
+  .carousel-control .glyphicon-menu-left, .carousel-control .glyphicon-menu-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+    font-size: 0px !important;
+  }
+  .template-coffee-shop .coffee-features {
+    padding-left: 0px !important;
+  }
+  .template-coffee-shop .coffee-features .features-list .feature {
+    padding-left: 120px !important;
+  }
+  .template-coffee-shopinfo .operation-hours .times {
+    margin: 20px 0 !important;
+  }
+  .template-coffee-shopinfo .operation-hours .times h5 {
+    font-size: 12px !important;
+    letter-spacing: 0.2em !important;
+  }
+  .template-coffee-shopinfo .operation-hours .times h5 .days {
+    font-size: 8px !important;
+    margin-right: 4px !important;
+  }
+  .template-coffee-shopinfo .coffee-footer {
+    height: 150px !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .social {
+    display: block !important;
+    left: 30% !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .shop-logo {
+    left: 28% !important;
+    display: block !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .information {
+    left: 22% !important;
+    display: block !important;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .template-coffee-showcase {
+    display: none !important;
+  }
+  .template-coffee-showcase .coffee-nav .shop-logo {
+    font-size: 8px !important;
+    left: 30% !important;
+  }
+  .template-coffee-showcase .coffee-nav .nav-social {
+    left: 37% !important;
+    top: 45px !important;
+  }
+  .template-coffee-showcase .coffee-greeter {
+    top: 42% !important;
+    left: 0% !important;
+    font-size: 10px !important;
+  }
+  .template-coffee-story {
+    padding: 0px !important;
+  }
+  .template-coffee-story .coffee-perfection-img {
+    width: 300px !important;
+    height: 550px !important;
+  }
+  .template-coffee-newsletter .newsletter h2 {
+    font-size: 12px !important;
+    letter-spacing: 0.2em !important;
+  }
+  .template-coffee-newsletter .newsletter input[type=email] {
+    display: inline-block;
+    width: 300px !important;
+    height: 38px !important;
+  }
+  .template-coffee-newsletter .newsletter input[type=submit] {
+    font-size: 12px !important;
+    margin-top: 25px !important;
+  }
+  .template-coffee-shop .coffee-features .features-list .feature {
+    padding-left: 45px !important;
+  }
+  .template-coffee-shop .coffee-images .carousel-caption {
+    font-size: 14px !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .social {
+    left: 26% !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .shop-logo {
+    left: 22% !important;
+    display: block !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .information {
+    left: 14% !important;
+  }
+}
+
+@media screen and (max-width: 385px) {
+  .template-coffee-showcase {
+    display: none !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .social {
+    left: 26% !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .shop-logo {
+    left: 22% !important;
+    display: block !important;
+  }
+  .template-coffee-shopinfo .coffee-footer .information {
+    left: 8% !important;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  letter-spacing: 0.8em;
+  font-family: 'Raleway', sans-serif;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+}
+
+.underline {
+  width: 295px;
+  height: 2px;
+  background-color: #000;
+  margin-bottom: 50px;
+}
+
+.template-coffee-showcase {
+  width: 100%;
+  overflow: hidden;
+  color: #FFF;
+}
+
+.template-coffee-showcase .coffee-nav {
+  position: absolute;
+  top: 15px;
+  width: 100%;
+  z-index: 5;
+}
+
+.template-coffee-showcase .coffee-nav .shop-logo {
+  position: absolute;
+  left: 25px;
+}
+
+.template-coffee-showcase .coffee-nav .nav-social {
+  position: absolute;
+  right: 25px;
+  transition: all 0.4s;
+}
+
+.template-coffee-showcase .coffee-nav .nav-social li {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  margin-right: 12px;
+  background-color: #FFF;
+}
+
+.template-coffee-showcase .coffee-nav .nav-social li a {
+  color: #000;
+  margin-left: 10px;
+}
+
+.template-coffee-showcase .coffee-nav .nav-social li a i {
+  margin-top: 8px;
+}
+
+.template-coffee-showcase .coffee-greeter {
+  position: absolute;
+  width: 450px;
+  height: 80px;
+  top: 30%;
+  left: 165px;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.template-coffee-showcase .carousel-control {
+  opacity: 1;
+}
+
+.template-coffee-showcase .carousel-control .glyphicon-menu-right, .template-coffee-showcase .carousel-control .icon-next {
+  margin-right: -10px;
+}
+
+.template-coffee-showcase .carousel-control .glyphicon-menu-left, .template-coffee-showcase .carousel-control .glyphicon-menu-right, .template-coffee-showcase .carousel-control .icon-next, .template-coffee-showcase .carousel-control .icon-prev {
+  width: 30px;
+  height: 30px;
+  margin-top: -10px;
+  font-size: 30px;
+}
+
+.template-coffee-showcase .carousel-control .glyphicon-menu-right, .template-coffee-showcase .carousel-control .icon-next {
+  right: 50%;
+  margin-right: -10px;
+}
+
+.template-coffee-showcase .carousel-control .glyphicon-menu-left, .template-coffee-showcase .carousel-control .glyphicon-menu-right, .template-coffee-showcase .carousel-control .icon-next, .template-coffee-showcase .carousel-control .icon-prev {
+  position: absolute;
+  top: 50%;
+  z-index: 5;
+  display: inline-block;
+  margin-top: -10px;
+}
+
+.template-coffee-story {
+  width: 100%;
+  overflow: hidden;
+  padding: 10px 40px;
+  background-color: #E8D4C8;
+}
+
+.template-coffee-story .coffee-logo {
+  font-weight: bolder;
+  font-size: 48px;
+  letter-spacing: 0.2em;
+  margin: 50px 0;
+}
+
+.template-coffee-story .coffee-perfection, .template-coffee-story .coffee-story {
+  margin-top: 80px;
+}
+
+.template-coffee-story .coffee-perfection-img {
+  width: 600px;
+  height: 850px;
+  margin: auto;
+  margin-bottom: 50px;
+  background-image: url("../img/coffeeSteam.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.template-coffee-story .coffee-perfection-img .title-perfection {
+  color: #FFF;
+  padding-top: 100px;
+}
+
+.template-coffee-story .coffee-story {
+  padding-top: 180px;
+}
+
+.template-coffee-story .coffee-story .header {
+  font-weight: normal;
+}
+
+.template-coffee-story .coffee-story .description {
+  margin: 30px 0px;
+  padding-right: 80px;
+  letter-spacing: 0.4em;
+  font-size: 12px;
+  font-weight: lighter;
+}
+
+.template-coffee-newsletter {
+  width: 100%;
+  height: 400px;
+  background-image: url("../img/moreCoffee.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 30% 37%;
+  overflow: hidden;
+}
+
+.template-coffee-newsletter .newsletter {
+  position: relative;
+  left: 30px;
+  top: 42%;
+}
+
+.template-coffee-newsletter .newsletter h2 {
+  color: #E8D4C8;
+  font-size: 16px;
+  letter-spacing: 0.5em;
+}
+
+.template-coffee-newsletter .newsletter input[type=email] {
+  display: inline-block;
+  width: 350px;
+  height: 48px;
+  border: 2px solid #FFF;
+  background-color: transparent;
+  color: #E8D4C8;
+  padding-left: 8px;
+  letter-spacing: 0.2em;
+}
+
+.template-coffee-newsletter .newsletter input[type=submit] {
+  color: #E8D4C8;
+  width: 80px;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 16px;
+  background-color: transparent;
+  border: none;
+  transition: 0.2s all linear;
+}
+
+.template-coffee-newsletter .newsletter input[type=submit]:hover {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+}
+
+.template-coffee-shop {
+  width: 100%;
+  overflow: hidden;
+  background-color: #E8D4C8;
+}
+
+.template-coffee-shop .coffee-features {
+  margin-top: 25px;
+  padding-left: 80px;
+}
+
+.template-coffee-shop .coffee-features .shop-name {
+  color: #000;
+  font-weight: bolder;
+  letter-spacing: 0.4em;
+}
+
+.template-coffee-shop .coffee-features .shop-slogan {
+  margin: 20px 2px;
+}
+
+.template-coffee-shop .coffee-features .underline {
+  margin: auto;
+  width: 50px;
+}
+
+.template-coffee-shop .coffee-features .features-list {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.template-coffee-shop .coffee-features .features-list .feature {
+  letter-spacing: 0.4em;
+  margin: 40px 0;
+  cursor: pointer;
+}
+
+.template-coffee-shop .coffee-features .features-list .feature .fa {
+  margin-right: 25px;
+  font-size: 12px;
+}
+
+.template-coffee-shop .coffee-features .features-list .feature .fa-check {
+  color: #3EFF28;
+}
+
+.template-coffee-shop .coffee-features .features-list .feature p {
+  display: inline-block;
+  font-size: 12px;
+}
+
+.template-coffee-shop .coffee-images {
+  width: 60%;
+  float: right;
+  padding: 0;
+  opacity: 0.9;
+}
+
+.template-coffee-shop .coffee-images .carousel-caption {
+  position: absolute;
+  top: 45%;
+  font-size: 24px;
+  font-weight: bold;
+  opacity: 1;
+}
+
+.template-coffee-shop .coffee-images .carousel-caption .customer-name {
+  font-size: 16px;
+}
+
+.template-coffee-shopinfo {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  height: 425px;
+  background-color: #5A534D;
+  color: #FFF;
+}
+
+.template-coffee-shopinfo .hour-header {
+  padding-left: 0px;
+  font-weight: bolder;
+  color: #E8D4C8;
+  font-size: 24px;
+  letter-spacing: 0.2em;
+  margin-bottom: 25px;
+}
+
+.template-coffee-shopinfo .operation-hours {
+  padding: 50px;
+  font-family: 'Khula', sans-serif;
+  color: #FFF;
+}
+
+.template-coffee-shopinfo .operation-hours .times {
+  margin: 20px 0;
+}
+
+.template-coffee-shopinfo .operation-hours .times h5 {
+  font-size: 22px;
+  color: #E8D4C8;
+}
+
+.template-coffee-shopinfo .operation-hours .times h5 .days {
+  color: #FFF;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bolder;
+  font-size: 10px;
+  margin-right: 18px;
+}
+
+.template-coffee-shopinfo #map {
+  height: 350px;
+  letter-spacing: 0.1em;
+}
+
+.template-coffee-shopinfo .coffee-footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  height: 75px;
+  background-color: #E8D4C8;
+}
+
+.template-coffee-shopinfo .coffee-footer .social {
+  position: relative;
+  left: 15px;
+  bottom: -25px;
+  display: inline-block;
+  width: 300px;
+}
+
+.template-coffee-shopinfo .coffee-footer .shop-logo {
+  position: relative;
+  left: 24%;
+  bottom: -25px;
+  display: inline-block;
+  color: #000;
+}
+
+.template-coffee-shopinfo .coffee-footer .information {
+  position: absolute;
+  right: 15px;
+  bottom: 5px;
+  display: inline-block;
+  color: #000;
+}
+
+.template-coffee-shopinfo .coffee-footer .information li {
+  margin-right: 6px;
+}
+
+.template-coffee-shopinfo .coffee-footer .social > li, .template-coffee-shopinfo .coffee-footer .information .location, .template-coffee-shopinfo .coffee-footer .information .contact-info {
+  display: inline-block;
+}
+
+.template-coffee-shopinfo .coffee-footer .social > li > a {
+  font-size: 10px;
+  padding-left: 5px;
+  letter-spacing: 0.1em;
+  color: #000;
+}
+
+.template-coffee-shopinfo .coffee-footer .social > li > a:hover {
+  text-decoration: none;
+}
+
+.template-coffee-shopinfo .coffee-footer .f-header, .template-coffee-shopinfo .coffee-footer .f-desc {
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  line-height: 1.2em;
+}
+
+.template-coffee-shopinfo .coffee-footer .f-header {
+  font-weight: bolder;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,259 @@
+// importing external files
+@import "_config.scss";
+@import "_media.scss";
+
+// default
+body{margin: 0; padding: 0; letter-spacing: 0.8em; font-family: 'Raleway', sans-serif;}
+ul{list-style: none; margin: 0; padding: 0;}
+a{text-decoration: none;}
+h1, h2, h3, h4, h5, h6{text-transform: uppercase;}
+.underline{width: 295px; height: 2px; background-color: $secondaryFontColor; margin-bottom: 50px;}
+
+
+
+// hazel main showcase
+.template-coffee-showcase{
+    @include defaultWidthHeight;
+    color: $primaryFontColor;
+
+    .coffee-nav{
+        position: absolute;
+        top: 15px;
+        width: 100%;
+        z-index: 5;
+        .shop-logo{position: absolute; left: 25px;}
+        .nav-social{
+            position: absolute; 
+            right: 25px;
+            transition: all 0.4s;
+            li{
+                display: inline-block;
+                width: 30px;
+                height: 30px;
+                border-radius: 100%;
+                margin-right: 12px;
+                background-color: $primaryFontColor;
+                a{color: $secondaryFontColor; margin-left: 10px; i{margin-top: 8px;}}
+            }
+
+        }
+
+    }
+
+    .coffee-greeter{
+        position: absolute;
+        width: 450px;
+        height: 80px;
+        top: 30%;
+        left: 165px;
+        font-weight: bold;
+        font-size: 20px;
+        text-transform: uppercase;
+    }
+
+
+
+    .carousel-control{opacity: 1;}
+    .carousel-control .glyphicon-menu-right, .carousel-control .icon-next {
+        margin-right: -10px;
+    }
+
+    .carousel-control .glyphicon-menu-left, .carousel-control .glyphicon-menu-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+        width: 30px;
+        height: 30px;
+        margin-top: -10px;
+        font-size: 30px;
+    }
+
+    .carousel-control .glyphicon-menu-right, .carousel-control .icon-next {
+        right: 50%;
+        margin-right: -10px;
+    }
+
+    .carousel-control .glyphicon-menu-left, .carousel-control .glyphicon-menu-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+        position: absolute;
+        top: 50%;
+        z-index: 5;
+        display: inline-block;
+        margin-top: -10px;
+    }
+
+}
+
+// hazel coffee story
+.template-coffee-story{
+    @include defaultWidthHeight;
+    padding: 10px 40px;
+    background-color: $primaryBkgColor;  
+
+    .coffee-logo{font-weight: bolder; font-size: 48px; letter-spacing: 0.2em; margin: 50px 0;}
+    .coffee-perfection, .coffee-story{margin-top: 80px;}
+    
+    .coffee-perfection-img{    
+        width: 600px; 
+        height: 850px;
+        margin: auto; 
+        margin-bottom: 50px;
+        background-image: url('../img/coffeeSteam.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    
+        .title-perfection{color: $primaryFontColor; padding-top: 100px;}
+    }
+
+    .coffee-story{
+        padding-top: 180px;
+        .header{font-weight: normal;}
+        .description{margin: 30px 0px; padding-right: 80px; letter-spacing: 0.4em; font-size: 12px; font-weight: lighter;}    
+    }
+}
+
+// newsletter
+.template-coffee-newsletter{
+    width: 100%; 
+    height: 400px; 
+    background-image: url('../img/moreCoffee.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 30% 37%;
+    overflow: hidden;
+
+    .newsletter{
+        position: relative; 
+        left: 30px;
+        top: 42%;
+        h2{color: $primaryBkgColor; font-size: 16px; letter-spacing: 0.5em;}
+        input[type=email]{
+            display: inline-block;
+            width: 350px;
+            height: 48px;
+            border: 2px solid $primaryFontColor;
+            background-color: transparent;
+            color: $primaryBkgColor;
+            padding-left: 8px;
+            letter-spacing: 0.2em;
+        }
+        input[type=submit]{
+            color: $primaryBkgColor; 
+            width: 80px;
+            text-transform: uppercase; 
+            letter-spacing: 0.2em; 
+            font-size: 16px; 
+            background-color: transparent; 
+            border: none;
+            transition: 0.2s all linear;
+        }
+        input[type=submit]:hover{
+            transform: scale(1.1);
+            -webkit-transform: scale(1.1);
+            -moz-transform: scale(1.1);
+        }
+    }
+}
+
+
+// hazel coffee shop
+.template-coffee-shop{
+    @include defaultWidthHeight;
+    background-color: $primaryBkgColor;
+
+    .coffee-features{
+        margin-top: 25px;
+        padding-left: 80px;
+
+        .shop-name{color: $secondaryFontColor; font-weight: bolder; letter-spacing: 0.4em;}
+
+        .shop-slogan{margin: 20px 2px;}
+        .underline{margin: auto; width: 50px;}
+
+        .features-list{
+            margin-left: 50px;
+            margin-top: 50px; 
+            .feature{
+                letter-spacing: 0.4em;
+                margin: 40px 0;
+                cursor: pointer;
+                .fa{margin-right: 25px; font-size: 12px;}
+                .fa-check{color: #3EFF28;}
+                p{display: inline-block; font-size: 12px;}
+            }
+            
+        }
+        
+    }
+
+    .coffee-images{
+        width: 60%;
+        float: right;
+        padding: 0;
+        opacity: 0.9;
+
+       .carousel-caption{
+           position: absolute;
+           top: 45%;
+           font-size: 24px;
+           font-weight: bold;
+           opacity: 1;
+
+           .customer-name{
+               font-size: 16px;
+           }
+       }
+
+    }
+    
+}
+
+// hazel shop info
+.template-coffee-shopinfo{
+    @include defaultWidthHeight;
+    position: relative;
+    height: 425px;
+    background-color: $secondaryBkgColor;
+    color: $primaryFontColor;
+    .hour-header{padding-left: 0px; font-weight: bolder; color: $thirdFontColor; font-size: 24px; letter-spacing: 0.2em; margin-bottom: 25px;}
+    .operation-hours{
+        padding: 50px;
+        font-family: 'Khula', sans-serif;
+        color: $primaryFontColor;
+        .times{
+            margin: 20px 0;
+            h5{
+                font-size: 22px;
+                color: $thirdFontColor;
+                .days{color: $primaryFontColor; font-family: 'Raleway', sans-serif; font-weight: bolder; font-size: 10px;margin-right: 18px;}
+            }        
+        }
+    }
+
+    #map{
+        height: 350px;
+        letter-spacing: 0.1em;
+    }
+
+    .coffee-footer{
+        position: absolute;
+        bottom: 0px;
+        width: 100%;
+        height: 75px;
+        background-color: $primaryBkgColor;
+
+        .social{position: relative; left: 15px; bottom: -25px; display: inline-block; width: 300px;}
+        .shop-logo{position: relative; left: 24%; bottom: -25px; display: inline-block; color: $secondaryFontColor;}
+        .information{position: absolute; right: 15px; bottom: 5px; display: inline-block; color: $secondaryFontColor;}
+        .information li{margin-right: 6px;}
+            
+        .social>li, .information .location, .information .contact-info{
+            display: inline-block;
+        }
+    
+        .social>li>a{font-size: 10px; padding-left: 5px; letter-spacing: 0.1em;  color: $secondaryFontColor;}
+        .social>li>a:hover{text-decoration: none;}
+        .f-header, .f-desc{font-size: 10px; letter-spacing: 0.2em; line-height: 1.2em;}
+        .f-header{font-weight: bolder;}
+     
+    }
+}
+

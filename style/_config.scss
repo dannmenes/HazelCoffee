@@ -1,0 +1,13 @@
+// colors
+$primaryBkgColor: #E8D4C8;
+$secondaryBkgColor: #5A534D;
+
+$primaryFontColor: #FFF;
+$secondaryFontColor: #000;
+$thirdFontColor: #E8D4C8;
+
+// mixins
+@mixin defaultWidthHeight{
+    width: 100%;
+    overflow: hidden;
+}
